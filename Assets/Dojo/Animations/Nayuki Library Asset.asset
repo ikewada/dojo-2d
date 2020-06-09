@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Nayuki Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: -744424190007485859, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+    - m_Name: Mad
+      m_Hash: -1321584602
+      m_Sprite: {fileID: 5645489457843829716, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+    - m_Name: Cool
+      m_Hash: 1292893897
+      m_Sprite: {fileID: -7873628308864610111, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+  - m_Name: ForarmL
+    m_Hash: -1143888620
+    m_CategoryList:
+    - m_Name: Type1
+      m_Hash: 2328200
+      m_Sprite: {fileID: -466506491458918138, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+    - m_Name: Type2
+      m_Hash: -1725245646
+      m_Sprite: {fileID: 5636306103986573651, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+    - m_Name: Type3
+      m_Hash: -298981468
+      m_Sprite: {fileID: -4611881656928366352, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+  - m_Name: ForarmR
+    m_Hash: 1105107063
+    m_CategoryList:
+    - m_Name: Type1
+      m_Hash: 2328200
+      m_Sprite: {fileID: -6937816918951869917, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+    - m_Name: Type2
+      m_Hash: -1725245646
+      m_Sprite: {fileID: -9171834222692300533, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
+    - m_Name: Type3
+      m_Hash: -298981468
+      m_Sprite: {fileID: 4588682974686990160, guid: b65d821d94c13704b84ed0d85d572fbf,
+        type: 3}
