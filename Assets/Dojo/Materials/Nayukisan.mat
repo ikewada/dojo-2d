@@ -7,8 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Character
-  m_Shader: {fileID: 4800000, guid: e260cfa7296ee7642b167f1eb5be5023, type: 3}
+  m_Name: Nayukisan
+  m_Shader: {fileID: -6465566751694194690, guid: f000d1afd450b4f388fff5c64f6bf63b,
+    type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -45,6 +46,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_7FF424DE: 1.167
+    - _Effect: 0
     - _EnableExternalAlpha: 0
     - _Fade: 1
     - _Heignt: 2
